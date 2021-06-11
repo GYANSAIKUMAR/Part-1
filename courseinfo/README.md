@@ -8,9 +8,9 @@ To start an application, do the following :
 
 ```bash
 # Install dependancies
-$ yarn install
+$ npm install
 # Start the application
-$ yarn start
+$ npm start
 ```
 
 You can then access the app on : [http://localhost:3000/](http://localhost:3000/)
